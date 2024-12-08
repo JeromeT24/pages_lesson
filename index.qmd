@@ -1,6 +1,6 @@
 ---
 title: "Gapminder: Example Quarto Report"
-author: "The GRAPH Courses"
+author: "Jerome Lwali"
 format: html
 ---
 
